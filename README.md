@@ -9,6 +9,9 @@
     <a>
         <img alt="AWS" src="https://img.shields.io/badge/aws%20-%2343853D.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
     </a>
+    <a>
+        <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    </a>
 </p>
 
 <p align = "center">
