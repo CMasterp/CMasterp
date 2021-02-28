@@ -1,5 +1,5 @@
 <p align="center">
-    <a><img src="https://raw.githubusercontent.com/Neotoxic-off/Neotoxic-off/master/img/2.png" alt="[002]"></a>
+    <a><img src="https://raw.githubusercontent.com/CMasterp/CMasterp/master/img/2.png" alt="[002]"></a>
 </p>
 
 <p align = "center">
@@ -37,7 +37,7 @@
 
 <h1 align="center">
     Hi, I'm
-    <a href="https://github.com/Neotoxic-off">
+    <a href="https://github.com/CMasterp">
         Иэο
     </a>!
 </h1>
@@ -46,7 +46,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Neotoxic-off"><img src="https://github-readme-stats.vercel.app/api?username=Neotoxic-off&show_icons=true&theme=dracula&hide_border=true" alt="Neotoxic-off's github stats"></a>
+  <a href="https://github.com/CMasterp"><img src="https://github-readme-stats.vercel.app/api?username=CMasterp&show_icons=true&theme=dracula&hide_border=true" alt="CMasterp's github stats"></a>
 </p>
 
 <p align = "center">
