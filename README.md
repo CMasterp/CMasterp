@@ -43,3 +43,7 @@
 <p align = "center">
     :technologist: I'm currently improving my Object Oriented Programming skills.
 </p>
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-miyigbena/)
+[![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](christianmiyigbena@gmail.com)
+![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22990653614)
