@@ -1,5 +1,5 @@
 <p align="center">
-    <a><img src="https://raw.githubusercontent.com/CMasterp/CMasterp/master/img/calm.gif" alt="[002]"></a>
+    <a><img src="https://raw.githubusercontent.com/CMasterp/CMasterp/master/img/404.gif" alt="[002]"></a>
 </p>
 
 <p align = "center">
